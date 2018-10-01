@@ -7,3 +7,6 @@ InfiniteRecyclerView is a wrapper of RecyclerView. Instead of heavy encapsulatio
 3. Option to set last scroll item offset before load more invoke
 4. Load more progress view
 5. Option to add custom load more progress view
+
+# Download
+https://github.com/shantanu-csedu/InfiniteRecylcerView/raw/master/InfiniteRecyclerView.aar
